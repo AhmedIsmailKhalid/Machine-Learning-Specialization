@@ -1,0 +1,26 @@
+Folder link containing all the files: https://mega.nz/folder/BtozlKTD#PlO637vdwFg08RybckUntA
+
+Breakdown of files is as below
+
+Course 1 ─ Machine Learning Foundations A Case Study
+Week 3 ─ Classification Analyzing Sentiment -> amazon_baby.csv
+Week 4 ─ Clustering and Similarity Retreiving Documents -> people_wiki.csv
+Week 5 ─ Recommending Products -> song_data.csv
+Week 6 ─ Deep Learning Searching for Images -> images_test_data.zip & images_train_data.zip
+
+
+Course 3 ─ Machine Learning Classification
+Week 1 ─ Linear Classifiers & Logistic Regression -> amazon_baby.csv
+Week 2 ─ Overfitting and Regularization in Logistic Regression -> amazon_baby_subset.csv
+Week 3 ─ Decision Trees -> lending-club-data.csv
+Week 4 ─ Preventing Overfitting in Decision Trees -> lending-club-data.csv
+Week 5 ─ Boosting -> lending-club-data.csv
+Week 6 ─ Precision-Recall -> amazon_baby.csv
+Week 7 ─ Scaling to Huge Datasets and Online Learning -> amazon_baby_subset.csv
+
+
+Course 4 ─ Clustering and Retrieval
+Week 3 ─ Clustering with K-Means -> people_wiki.csv, people_wiki_tf_idf & kmeans-arrays
+Week 4 ─ Mixture Models -> people_wiki.csv, people_wiki_tf_idf & images.rar
+Week 5 ─ Mixed Membership Modeling via Latent Dirichlet Allocation -> people_wiki.sframe.rar & topic_models.rar
+Week 6 ─ Hierarchical Clustering -> people_wiki.csv & people_wiki_tf_idf.npz
